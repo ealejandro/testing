@@ -1,6 +1,11 @@
-sdsdsdsdsd 11111
+#include <inlcude.h>
+#include <windows.h>
 
-//jkajskajksa
+// comment
 
 
-akjsakjskajsas
+int_main() 
+{
+ tchar tc;
+
+}
